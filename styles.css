@@ -34,3 +34,19 @@ img {
     background-color: black;
     color: white;
 }
+
+.ms3 {
+    color: grey;
+}
+
+a {
+    color: #aeaeae;
+}
+
+a:hover {
+    color: purple;
+}
+
+.bi {
+    transform: scale(1.5);
+}
